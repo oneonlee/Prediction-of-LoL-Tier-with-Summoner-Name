@@ -49,7 +49,8 @@ RNN(Recurrent Neural Network)을 이용한 (재미로 보는) 리그오브레전
 |       2 |        viper3 | challenger |
 |       3 |        KT Way | challenger |
 |       4 | SMB heixiaohu | challenger |
-|       5 |      냥똥벌레 | challenger |
+|       5 |        냥똥벌레 | challenger |
+|     ... |           ... |        ... |
 
 ### 티어 별 분포
 
@@ -79,6 +80,7 @@ RNN(Recurrent Neural Network)을 이용한 (재미로 보는) 리그오브레전
 | GRU-64              | 0.21993      |
 | BiGRU-128           | 0.22192      |
 | [BiGRU-64](/model/) | **0.22210**  |
+
 
 ---
 
