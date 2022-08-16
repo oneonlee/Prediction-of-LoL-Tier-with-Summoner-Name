@@ -18,4 +18,14 @@
 
 ---
 
-<div align="center">2022년 인트아이 여름 해커톤 "그로우업톤" - 인공지능 팀 참가 작품</div>
+<div align="center">
+2022년 인트아이 여름 해커톤 "그로우업톤" - 인공지능 팀 참가 작품
+</div>
+
+<br>
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foneonlee%2FPrediction-of-LoL-Tier-with-Summoner-Name%2Fblob%2Fmain%2FWordcloud-of-LoL-Summoner-Name%2FREADME.md&count_bg=%232D404F&title_bg=%23CDC5C5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
