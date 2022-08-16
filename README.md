@@ -1,6 +1,6 @@
 # Prediction-of-LoL-Tier-with-Summoner-Name
 
-순환 신경망 (Recurrent Neural Network)을 이용한 <br>(재미로 보는) 리그오브레전드 소환사 이름으로 티어 예측하기
+RNN(Recurrent Neural Network)을 이용한 (재미로 보는) 리그오브레전드 소환사 이름으로 티어 예측하기
 
 ```python
 >>> tier_predict('KT way')
@@ -76,3 +76,7 @@
 | GRU-64              | 0.21993      |
 | BiGRU-128           | 0.22192      |
 | [BiGRU-64](/model/) | **0.22210**  |
+
+---
+
+<div align="center">2022년 인트아이 여름 해커톤 "그로우업톤" - 인공지능 팀 참가 작품</div>
