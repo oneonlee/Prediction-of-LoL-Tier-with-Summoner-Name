@@ -2,6 +2,9 @@
 
 RNN(Recurrent Neural Network)을 이용한 (재미로 보는) 리그오브레전드 소환사 이름으로 티어 예측하기
 
+(+부록 : [리그오브레전드 소환사 이름 기반 워드클라우드 분석](/Wordcloud-of-LoL-Summoner-Name/))
+<br>
+
 ```python
 >>> tier_predict('KT way')
 ('마스터 이상', 0.25377932)
